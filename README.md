@@ -23,7 +23,7 @@ The file should look like the following:
 Dependencies:
 =============
 
-pyrdp
+rdpy
 twisted
 
 Usage:
